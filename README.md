@@ -1,6 +1,6 @@
 # Manual Installation and Configuration of Apache Tomcat 9 on Ubuntu
 
-![Screenshot](.png)
+![Screenshot](1.png)
 
 This guide walks through the manual installation and setup of Apache Tomcat 9 on an Ubuntu system.
 
