@@ -140,4 +140,4 @@ Add the following inside `<tomcat-users>`:
 You should now have access to the Tomcat Manager GUI with full configuration.
 
 ---
-![Output Screenshot](TSOU.png)
+![Output Screenshot](T.png)
